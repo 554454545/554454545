@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Learning+in+public;Building+small+things;Exploring+code+and+AI" alt="Learning in public · Building small things · Exploring code and AI" />
+    <img src="https://readme-typing-svg.demolab.com?lines=Learning+in+public;Building+small+things;Exploring+code+and+AI&font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680" alt="Learning in public · Building small things · Exploring code and AI" />
   </a>
 </p>
 
