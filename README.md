@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm BunnyJudy 👋
 
-<!--
-**554454545/554454545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Learning+in+public;Building+small+things;Exploring+code+and+AI" alt="Learning in public · Building small things · Exploring code and AI" />
+</p>
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this space to share the things I am learning, building, and exploring.
+
+## Currently
+
+- 🌱 Learning by making and documenting the process
+- 🛠️ Building small experiments and useful projects
+- ✨ Exploring code, AI, and creative tools
+
+## Building
+
+Projects and notes will live here as they take shape.
+
+## Connect
+
+- GitHub: [@554454545](https://github.com/554454545)
+
+---
+
+_Still exploring, still building._
