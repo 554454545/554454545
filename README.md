@@ -1,4 +1,4 @@
-# Hi, I'm BunnyJudy 👋
+# Hi, I'm Judy 👋
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
